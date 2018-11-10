@@ -1,7 +1,7 @@
 {
 	"author": "Solomon Victorino",
 	"name": "fcc-learn-npm-package-json",
-	"description": "A demo npm package."
+	"description": "A demo npm package.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
